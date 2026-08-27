@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+embeddings_export/
+chroma_db/
+chroma_db_*/
+
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+.venv/
+.env/
+# VS Code
+.vscode/
+
+# Environment & config
+.env
+.env.*
+*.env
+
+# Temp files
+_*
